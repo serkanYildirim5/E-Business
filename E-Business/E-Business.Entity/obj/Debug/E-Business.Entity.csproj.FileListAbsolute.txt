@@ -1,0 +1,14 @@
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\E-Business.Entity.dll.config
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\E-Business.Entity.dll
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\E-Business.Entity.pdb
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\Core.dll
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\EntityFramework.dll
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\EntityFramework.SqlServer.dll
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\Core.pdb
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\Core.dll.config
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\EntityFramework.xml
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\bin\Debug\EntityFramework.SqlServer.xml
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\obj\Debug\E-Business.Entity.csprojResolveAssemblyReference.cache
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\obj\Debug\E-Business.Entity.csproj.CoreCompileInputs.cache
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\obj\Debug\E-Business.Entity.dll
+F:\Dersler\E-Ticaret-Template\E-Business\E-Business.Entity\obj\Debug\E-Business.Entity.pdb

@@ -1,0 +1,11 @@
+F:\Dersler\E-Ticaret-Template\E-Business\Core\bin\Debug\Core.dll.config
+F:\Dersler\E-Ticaret-Template\E-Business\Core\bin\Debug\Core.dll
+F:\Dersler\E-Ticaret-Template\E-Business\Core\bin\Debug\Core.pdb
+F:\Dersler\E-Ticaret-Template\E-Business\Core\bin\Debug\EntityFramework.dll
+F:\Dersler\E-Ticaret-Template\E-Business\Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\Dersler\E-Ticaret-Template\E-Business\Core\bin\Debug\EntityFramework.xml
+F:\Dersler\E-Ticaret-Template\E-Business\Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\Dersler\E-Ticaret-Template\E-Business\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+F:\Dersler\E-Ticaret-Template\E-Business\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+F:\Dersler\E-Ticaret-Template\E-Business\Core\obj\Debug\Core.dll
+F:\Dersler\E-Ticaret-Template\E-Business\Core\obj\Debug\Core.pdb
